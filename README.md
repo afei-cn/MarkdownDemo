@@ -183,4 +183,4 @@ public class HelloWorld
 3. 其它一些类似 **流程图** 之类的功能，需要看 IDE 是否支持。
 
 
-查看原始数据：[https://gitee.com/afei_/MarkdownDemo/raw/master/README.md](https://gitee.com/afei_/MarkdownDemo/raw/master/README.md)
+查看原始数据：[https://raw.githubusercontent.com/afei-cn/MarkdownDemo/master/README.md](https://raw.githubusercontent.com/afei-cn/MarkdownDemo/master/README.md)
